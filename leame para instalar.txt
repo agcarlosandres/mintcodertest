@@ -1,0 +1,3 @@
+Una vez instalada la base de datos que se encuentra en la carpeta "bd/"
+
+deben ser configuradas las variables de conexion en el archivo ubicado en la ruta: "dao/connection.php"
